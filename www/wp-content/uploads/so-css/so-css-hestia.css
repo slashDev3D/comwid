@@ -1,0 +1,97 @@
+#hedear_02 {
+    min-height: 40px !important;
+}
+
+#hedear_02{
+    transition: min-height 0.3s ease !important;
+}
+.navbar.hestia_left>.container {
+    flex-direction: row;
+width:1400px
+}
+.footer .footer-menu a, .hestia-top-bar, .label, .media-footer a, .navbar, .navbar a {
+    font-size: 14px;
+}
+.hestia-top-bar, .hestia-top-bar .widget .label-floating input[type=search], .hestia-top-bar .widget.widget_search form.form-group:before, .hestia-top-bar .widget.widget_product_search form.form-group:before, .hestia-top-bar .widget.widget_shopping_cart:before {
+    color: #ffffff;
+    font-size: 12px !important;
+}
+.hestia-top-bar, .hestia-top-bar .widget .label-floating input[type=search], .hestia-top-bar .widget.widget_search form.form-group:before, .hestia-top-bar .widget.widget_product_search form.form-group:before, .hestia-top-bar .widget.widget_shopping_cart:before {
+
+    background: #000;
+}
+
+.kboard-venus-webzine-poweredby {
+
+    display: none;
+   
+}
+
+.hestia-scroll-to-top {
+
+    background-color: #c8a975;
+    -webkit-box-shadow: none;
+
+}
+.hestia-scroll-to-top:hover {
+    background-color: #000;
+  
+}
+
+.kboard-cross-link-poweredby {
+ 
+    display: none;
+  
+}
+
+.kboard-cross-link-list .kboard-list thead tr {
+   
+    border-top: 1px solid #c8a975;
+}
+
+.kboard-cross-link-new-notify {
+ 
+    background-color: #c8a975;
+
+}
+a.kboard-cross-link-button-small, input.kboard-cross-link-button-small, button.kboard-cross-link-button-small {
+    
+    background: none;
+    background-color: #444;
+    color: #fff;
+    border: none;
+}
+
+.kboard-biz-community-poweredby {
+  
+    display: none;
+}
+a.kboard-biz-community-button-small, input.kboard-biz-community-button-small, button.kboard-biz-community-button-small {
+   
+    color: #fff!important;
+    background: #000!important;
+    border: none !important;
+
+}
+
+a.kboard-biz-community-button-search, input.kboard-biz-community-button-search, button.kboard-biz-community-button-search {
+
+    color: white !important;
+    background: #000!important;
+   border: none;
+  
+}
+.kboard-biz-community-new-notify {
+    
+    color: white;
+    background-color: #c8a975;
+   border: none;
+
+}
+
+.kboard-pure-gallery-poweredby {
+    padding-bottom: 15px;
+    font-size: 13px;
+    overflow: hidden;
+    display: none;
+}
